@@ -1,9 +1,4 @@
-###     <td width="190" align="center"></td>
-    <td width="190" align="center"><a href="https://pumpkindev92.github.io/plum-crm/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-plum-crm.png" width="160" alt="plum-crm preview" /></a></td>
-    <td width="190" align="center"><a href="https://pumpkindev92.github.io/pumpkin-panic/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-pumpkin-panic.png" width="160" alt="pumpkin-panic preview" /></a></td>
-    <td width="190" align="center"><a href="https://pumpkindev92.github.io/moonlady-redesign/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-moonlady-redesign.png" width="160" alt="moonlady-redesign preview" /></a></td>
-    <td width="190" align="center"><a href="https://pumpkindev92.github.io/mono-jobs/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-mono-jobs.png" width="160" alt="mono-jobs preview" /></a></td>
-About me
+### About me
 
 Front-end developer with 3+ years of experience building responsive web applications with React and Next.js. I love pixel-perfect, mobile-first interfaces.
 
@@ -66,6 +61,7 @@ Front-end developer with 3+ years of experience building responsive web applicat
 
 <table>
   <tr>
+    <td width="190" align="center"></td>
     <td width="30%"><a href="https://gitlab.com/sergeykichukki4/tennis-padel-app"><b>Booking App (WeRes)</b></a><br><sub>Team project · GitLab</sub></td>
     <td>Booking marketplace for sports venues: venue listings, filters, interactive calendars and time-slot booking</td>
     <td>
@@ -76,6 +72,7 @@ Front-end developer with 3+ years of experience building responsive web applicat
     </td>
   </tr>
   <tr>
+    <td width="190" align="center"><a href="https://pumpkindev92.github.io/mono-jobs/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-mono-jobs.png" width="160" alt="mono-jobs preview" /></a></td>
     <td><a href="https://github.com/PumpkinDev92/mono-jobs"><b>Monojob (Work Search Concept)</b></a><br><sub>Solo project · GitHub</sub><br><a href="https://pumpkindev92.github.io/mono-jobs/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/open-project.png" height="32" alt="Open project" title="Open project" /></a></td>
     <td>Job board in monobank style</td>
     <td>
@@ -85,6 +82,7 @@ Front-end developer with 3+ years of experience building responsive web applicat
     </td>
   </tr>
   <tr>
+    <td width="190" align="center"><a href="https://pumpkindev92.github.io/moonlady-redesign/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-moonlady-redesign.png" width="160" alt="moonlady-redesign preview" /></a></td>
     <td><a href="https://github.com/PumpkinDev92/moonlady-redesign"><b>Moonlady (Underwear Shop)</b></a><br><sub>Solo project · GitHub</sub><br><a href="https://pumpkindev92.github.io/moonlady-redesign/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/open-project.png" height="32" alt="Open project" title="Open project" /></a></td>
     <td>Moon Lady Underwear homepage redesign concept</td>
     <td>
@@ -92,6 +90,7 @@ Front-end developer with 3+ years of experience building responsive web applicat
     </td>
   </tr>
   <tr>
+    <td width="190" align="center"><a href="https://pumpkindev92.github.io/pumpkin-panic/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-pumpkin-panic.png" width="160" alt="pumpkin-panic preview" /></a></td>
     <td><a href="https://github.com/PumpkinDev92/pumpkin-panic"><b>Pumpkin Panic (Three in a row game)</b></a><br><sub>Solo project · GitHub</sub><br><a href="https://pumpkindev92.github.io/pumpkin-panic/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/open-project.png" height="32" alt="Open project" title="Open project" /></a></td>
     <td>Halloween match-3 puzzle game for the browser: 30 levels, level map, castle rebuild, EN/RU</td>
     <td>
@@ -99,6 +98,7 @@ Front-end developer with 3+ years of experience building responsive web applicat
     </td>
   </tr>
   <tr>
+    <td width="190" align="center"><a href="https://pumpkindev92.github.io/plum-crm/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-plum-crm.png" width="160" alt="plum-crm preview" /></a></td>
     <td><a href="https://github.com/PumpkinDev92/plum-crm"><b>CRM System (Plum)</b></a><br><sub>Solo project · GitHub</sub><br><a href="https://pumpkindev92.github.io/plum-crm/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/open-project.png" height="32" alt="Open project" title="Open project" /></a></td>
     <td>Compact B2B CRM: deals board with drag-and-drop, contacts, daily notes, analytics dashboard, multi-company workspaces, dark glass UI, UK/RU/EN</td>
     <td>
