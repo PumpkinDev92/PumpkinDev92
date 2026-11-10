@@ -71,7 +71,7 @@ Front-end developer with 3+ years of experience building responsive web applicat
     </td>
   </tr>
   <tr>
-    <td width="190" align="center"><a href="https://pumpkindev92.github.io/moonlady-redesign/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-moonlady-redesign.png" width="160" alt="moonlady-redesign preview" /></a></td>
+    <td width="190" align="center"><a href="https://pumpkindev92.github.io/moonlady-redesign/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-moonlady-redesign-hero.png" width="160" alt="moonlady-redesign preview" /></a></td>
     <td><a href="https://github.com/PumpkinDev92/moonlady-redesign"><b>Moonlady (Underwear Shop)</b></a><br><sub>Solo project · GitHub</sub><br><a href="https://pumpkindev92.github.io/moonlady-redesign/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/open-project.png" height="32" alt="Open project" title="Open project" /></a></td>
     <td>Moon Lady Underwear homepage redesign concept</td>
     <td>
