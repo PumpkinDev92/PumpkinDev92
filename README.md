@@ -93,4 +93,14 @@ Front-end developer with 3+ years of experience building responsive web applicat
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="32" height="32" alt="JavaScript" />
     </td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/PumpkinDev92/plum-crm"><b>plum-crm</b></a><br><sub>Solo project · GitHub · <a href="https://pumpkindev92.github.io/plum-crm/">live demo</a></sub></td>
+    <td>Compact B2B CRM: deals board with drag-and-drop, contacts, daily notes, analytics dashboard, multi-company workspaces, dark glass UI, UK/RU/EN</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="32" height="32" alt="TypeScript" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="32" height="32" alt="React" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" width="32" height="32" alt="Vite" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="32" height="32" alt="CSS" />
+    </td>
+  </tr>
 </table>
