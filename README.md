@@ -79,7 +79,7 @@ Front-end developer with 3+ years of experience building responsive web applicat
     </td>
   </tr>
   <tr>
-    <td width="190" align="center"><a href="https://pumpkindev92.github.io/pumpkin-panic/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-pumpkin-panic.png" width="160" alt="pumpkin-panic preview" /></a></td>
+    <td width="190" align="center"><a href="https://pumpkindev92.github.io/pumpkin-panic/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-pumpkin-panic-game.png" width="160" alt="pumpkin-panic preview" /></a></td>
     <td><a href="https://github.com/PumpkinDev92/pumpkin-panic"><b>Pumpkin Panic (Three in a row game)</b></a><br><sub>Solo project · GitHub</sub><br><a href="https://pumpkindev92.github.io/pumpkin-panic/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/open-project.png" height="32" alt="Open project" title="Open project" /></a></td>
     <td>Halloween match-3 puzzle game for the browser: 30 levels, level map, castle rebuild, EN/RU</td>
     <td>
