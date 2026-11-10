@@ -71,7 +71,7 @@ Front-end developer with 3+ years of experience building responsive web applicat
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PumpkinDev92/mono-jobs"><b>Monojob (Work Search Concept)</b></a><br><sub>Solo project · GitHub</sub></td>
+    <td><a href="https://github.com/PumpkinDev92/mono-jobs"><b>Monojob (Work Search Concept)</b></a><br><sub>Solo project · GitHub · <a href="https://pumpkindev92.github.io/mono-jobs/">live demo</a></sub></td>
     <td>Job board in monobank style</td>
     <td>
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="32" height="32" alt="JavaScript" />
@@ -80,14 +80,14 @@ Front-end developer with 3+ years of experience building responsive web applicat
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PumpkinDev92/moonlady-redesign"><b>Moonlady (Underwear Shop)</b></a><br><sub>Solo project · GitHub</sub></td>
+    <td><a href="https://github.com/PumpkinDev92/moonlady-redesign"><b>Moonlady (Underwear Shop)</b></a><br><sub>Solo project · GitHub · <a href="https://pumpkindev92.github.io/moonlady-redesign/">live demo</a></sub></td>
     <td>Moon Lady Underwear homepage redesign concept</td>
     <td>
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="32" height="32" alt="HTML" />
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PumpkinDev92/pumpkin-panic"><b>Pumpkin Panic (Three in a row game)</b></a><br><sub>Solo project · GitHub</sub></td>
+    <td><a href="https://github.com/PumpkinDev92/pumpkin-panic"><b>Pumpkin Panic (Three in a row game)</b></a><br><sub>Solo project · GitHub · <a href="https://pumpkindev92.github.io/pumpkin-panic/">live demo</a></sub></td>
     <td>Halloween match-3 puzzle game for the browser: 30 levels, level map, castle rebuild, EN/RU</td>
     <td>
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="32" height="32" alt="JavaScript" />
