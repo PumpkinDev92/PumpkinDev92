@@ -61,7 +61,7 @@ Front-end developer with 3+ years of experience building responsive web applicat
 
 <table>
   <tr>
-    <td width="30%"><a href="https://gitlab.com/sergeykichukki4/tennis-padel-app"><b>tennis-padel-app</b></a><br><sub>Team project · GitLab</sub></td>
+    <td width="30%"><a href="https://gitlab.com/sergeykichukki4/tennis-padel-app"><b>Booking App (WeRes)</b></a><br><sub>Team project · GitLab</sub></td>
     <td>Booking marketplace for sports venues: venue listings, filters, interactive calendars and time-slot booking</td>
     <td>
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="32" height="32" alt="React" />
@@ -71,7 +71,7 @@ Front-end developer with 3+ years of experience building responsive web applicat
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PumpkinDev92/mono-jobs"><b>mono-jobs</b></a><br><sub>Solo project · GitHub</sub></td>
+    <td><a href="https://github.com/PumpkinDev92/mono-jobs"><b>Monojob (Work Search Concept)</b></a><br><sub>Solo project · GitHub</sub></td>
     <td>Job board in monobank style</td>
     <td>
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="32" height="32" alt="JavaScript" />
@@ -80,21 +80,21 @@ Front-end developer with 3+ years of experience building responsive web applicat
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PumpkinDev92/moonlady-redesign"><b>moonlady-redesign</b></a><br><sub>Solo project · GitHub</sub></td>
+    <td><a href="https://github.com/PumpkinDev92/moonlady-redesign"><b>Moonlady (Underwear Shop)</b></a><br><sub>Solo project · GitHub</sub></td>
     <td>Moon Lady Underwear homepage redesign concept</td>
     <td>
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="32" height="32" alt="HTML" />
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PumpkinDev92/pumpkin-panic"><b>pumpkin-panic</b></a><br><sub>Solo project · GitHub</sub></td>
+    <td><a href="https://github.com/PumpkinDev92/pumpkin-panic"><b>Pumpkin Panic (Three in a row game)</b></a><br><sub>Solo project · GitHub</sub></td>
     <td>Halloween match-3 puzzle game for the browser: 30 levels, level map, castle rebuild, EN/RU</td>
     <td>
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="32" height="32" alt="JavaScript" />
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PumpkinDev92/plum-crm"><b>plum-crm</b></a><br><sub>Solo project · GitHub · <a href="https://pumpkindev92.github.io/plum-crm/">live demo</a></sub></td>
+    <td><a href="https://github.com/PumpkinDev92/plum-crm"><b>CRM System (Plum)</b></a><br><sub>Solo project · GitHub · <a href="https://pumpkindev92.github.io/plum-crm/">live demo</a></sub></td>
     <td>Compact B2B CRM: deals board with drag-and-drop, contacts, daily notes, analytics dashboard, multi-company workspaces, dark glass UI, UK/RU/EN</td>
     <td>
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="32" height="32" alt="TypeScript" />
