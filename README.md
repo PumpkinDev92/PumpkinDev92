@@ -61,7 +61,7 @@ Front-end developer with 3+ years of experience building responsive web applicat
 
 <table>
   <tr>
-    <td width="190" align="center"></td>
+    <td width="190" align="center"><a href="https://gitlab.com/sergeykichukki4/tennis-padel-app"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-weres.png" width="160" alt="WeRes preview" /></a></td>
     <td width="30%"><a href="https://gitlab.com/sergeykichukki4/tennis-padel-app"><b>Booking App (WeRes)</b></a><br><sub>Team project · GitLab</sub></td>
     <td>Booking marketplace for sports venues: venue listings, filters, interactive calendars and time-slot booking</td>
     <td>
