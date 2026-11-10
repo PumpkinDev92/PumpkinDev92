@@ -61,7 +61,17 @@ Front-end developer with 3+ years of experience building responsive web applicat
 
 <table>
   <tr>
-    <td width="30%"><a href="https://github.com/PumpkinDev92/mono-jobs"><b>mono-jobs</b></a></td>
+    <td width="30%"><a href="https://gitlab.com/sergeykichukki4/tennis-padel-app"><b>tennis-padel-app</b></a><br><sub>Team project · GitLab</sub></td>
+    <td>Booking marketplace for sports venues: venue listings, filters, interactive calendars and time-slot booking</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="32" height="32" alt="React" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="32" height="32" alt="Next.js" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" width="32" height="32" alt="SCSS" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitLab-Dark.svg" width="32" height="32" alt="GitLab" />
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/PumpkinDev92/mono-jobs"><b>mono-jobs</b></a><br><sub>Solo project · GitHub</sub></td>
     <td>Job board in monobank style</td>
     <td>
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="32" height="32" alt="JavaScript" />
@@ -70,14 +80,14 @@ Front-end developer with 3+ years of experience building responsive web applicat
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PumpkinDev92/moonlady-redesign"><b>moonlady-redesign</b></a></td>
+    <td><a href="https://github.com/PumpkinDev92/moonlady-redesign"><b>moonlady-redesign</b></a><br><sub>Solo project · GitHub</sub></td>
     <td>Moon Lady Underwear homepage redesign concept</td>
     <td>
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="32" height="32" alt="HTML" />
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PumpkinDev92/pumpkin-panic"><b>pumpkin-panic</b></a></td>
+    <td><a href="https://github.com/PumpkinDev92/pumpkin-panic"><b>pumpkin-panic</b></a><br><sub>Solo project · GitHub</sub></td>
     <td>Halloween match-3 puzzle game for the browser: 30 levels, level map, castle rebuild, EN/RU</td>
     <td>
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="32" height="32" alt="JavaScript" />
