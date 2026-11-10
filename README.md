@@ -55,3 +55,32 @@ Front-end developer with 3+ years of experience building responsive web applicat
 | **Performance** | `Loading optimization` `Core Web Vitals` |
 | **Integrations** | `Third-party APIs` `Webhooks` `Payment widgets` |
 | **AI-assisted development** | `Claude Code` `OpenAI Codex` `ChatGPT` `AI-assisted workflow` |
+
+
+### Projects
+
+<table>
+  <tr>
+    <td width="30%"><a href="https://github.com/PumpkinDev92/mono-jobs"><b>mono-jobs</b></a></td>
+    <td>Job board in monobank style</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="32" height="32" alt="JavaScript" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="32" height="32" alt="React" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" width="32" height="32" alt="SCSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/PumpkinDev92/moonlady-redesign"><b>moonlady-redesign</b></a></td>
+    <td>Moon Lady Underwear homepage redesign concept</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="32" height="32" alt="HTML" />
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/PumpkinDev92/pumpkin-panic"><b>pumpkin-panic</b></a></td>
+    <td>Halloween match-3 puzzle game for the browser: 30 levels, level map, castle rebuild, EN/RU</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="32" height="32" alt="JavaScript" />
+    </td>
+  </tr>
+</table>
