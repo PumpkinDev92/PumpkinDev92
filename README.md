@@ -1,4 +1,9 @@
-### About me
+###     <td width="190" align="center"></td>
+    <td width="190" align="center"><a href="https://pumpkindev92.github.io/plum-crm/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-plum-crm.png" width="160" alt="plum-crm preview" /></a></td>
+    <td width="190" align="center"><a href="https://pumpkindev92.github.io/pumpkin-panic/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-pumpkin-panic.png" width="160" alt="pumpkin-panic preview" /></a></td>
+    <td width="190" align="center"><a href="https://pumpkindev92.github.io/moonlady-redesign/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-moonlady-redesign.png" width="160" alt="moonlady-redesign preview" /></a></td>
+    <td width="190" align="center"><a href="https://pumpkindev92.github.io/mono-jobs/"><img src="https://raw.githubusercontent.com/PumpkinDev92/PumpkinDev92/main/assets/preview-mono-jobs.png" width="160" alt="mono-jobs preview" /></a></td>
+About me
 
 Front-end developer with 3+ years of experience building responsive web applications with React and Next.js. I love pixel-perfect, mobile-first interfaces.
 
